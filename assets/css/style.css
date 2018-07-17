@@ -3,6 +3,7 @@
 }
 
 body {
+    position: relative;
     background-image: url("../images/gaming-pattern.png");
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
